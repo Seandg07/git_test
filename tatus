@@ -1,0 +1,17 @@
+[33mcommit 2319ce7371b559315b154837f8d3fc0776352605[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: seandg07 <seandg07@icloud.com>
+Date:   Fri May 24 21:33:27 2024 +0000
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 7524883ce8a2b1e69d126ce4b3b541ffb9116ccf[m
+Author: seandg07 <seandg07@icloud.com>
+Date:   Fri May 24 21:14:08 2024 +0000
+
+    Add hello_world.txt
+
+[33mcommit 6ea5db6cef1b427de20c9dc57078a83dc775d461[m
+Author: Seandg07 <161986055+Seandg07@users.noreply.github.com>
+Date:   Fri May 24 21:09:52 2024 +0000
+
+    Initial commit
